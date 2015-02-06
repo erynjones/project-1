@@ -1,0 +1,63 @@
+header {
+  background-color: yellow;
+  padding: 0em 0em 1em 0em;
+  text-align: center;
+  }
+
+  h1 {
+  font-weight: bold;
+  font-size: 5rem;
+  text-decoration: none;
+  line-height: 1.5;
+  background-color: yellow;
+  padding: 1em 2em 0em 2em;
+  margin: 0;
+  color: red;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0
+}
+
+nav a{
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  background-color: red;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 0;
+  text-align: center;
+}
+
+blockquote {
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.25rem;
+}
+
+nav li {
+  display: inline-block;
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 24px;
+  padding: 1em 2em 0em 3em;
+  margin: 0;
+}
+
+img {
+width: 100%
+}
+
+dd {
+  margin: 0;
+}
+
+.cite {
+  text-align: right;
+}

@@ -1,3 +1,7 @@
+body {
+  line-height: 1.5;
+  margin: 0;
+}
 header {
   background-color: #f1df15;
   padding: 0em 0em 1em 0em;
@@ -67,10 +71,12 @@ width: 100%
 
 dd {
   margin: 0;
+  padding: 0em 0em 0em 0.5em
 }
 
 dt {
   font-weight: bold;
+  padding: 0em 0em 0em 0.5em
 }
 
 .cite {
@@ -90,7 +96,7 @@ h2 {
   font-size: 3rem;
   color: #7f1010;
   margin: 0;
-  padding: 0em 0em 0.5em 0em;
+  padding: 0em 0em 0em 0.25em;
   font-family: 'Sigmar One', cursive;
   border-top: 5px solid yellow;
 }
@@ -101,6 +107,7 @@ h3 {
   color: #7f1010;
   margin: 1;
   font-family: 'Sigmar One', cursive;
+  padding: 0em 0em 0em 0.5em
 }
 
 footer {
@@ -115,6 +122,7 @@ a:hover {
 
 p {
   font-size: 14pt;
+  padding: 0em 0em 0em 0.5em
 }
 
 .quotation {

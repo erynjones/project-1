@@ -4,21 +4,19 @@ body {
 }
 header {
   background-color: #f1df15;
-  padding: 0em 0em 0em 0em;
   text-align: center;
-  margin: 0;
   }
 
   h1 {
   font-family: 'Sigmar One', cursive;
   font-weight: bold;
   font-size: 5rem;
-  text-decoration: none;
   line-height: 1.5;
   background-color: #f1df15;
-  padding: 1em 2em 0em 2em;
-  margin: 0;
+  xpadding: 1em 2em 0em 2em;
+  margin: auto;
   color: #7f1010;
+  text-align: center;
 }
 
 ol {
